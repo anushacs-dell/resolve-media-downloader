@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.YT-venv/
+venv/
+
+# Downloaded media
+downloads/
+
+# Build files
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+EOF
