@@ -2,8 +2,6 @@
 
 A standalone desktop application for downloading video, audio (MP3), and image files with automatic ingestion into **DaVinci Resolve**.
 
-*Built by Anusha for Pixelflix institute.*
-
 ## Features
 - **Zero-Setup Desktop App:** Packaged for non-technical editors on macOS (`.app`) and Windows (`.exe`)—no Python or Terminal required.
 - **Multiple Formats:** Download Video, Audio (MP3), or Images with quality/resolution selection.
